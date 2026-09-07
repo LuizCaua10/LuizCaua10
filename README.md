@@ -8,12 +8,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4º período, interessado em desenvolvimento de software e tecnologia.
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 4º período, com interesse em desenvolvimento de software.
 
-Gosto de aprender na prática, desenvolvendo projetos e buscando entender como as aplicações funcionam desde o código até o banco de dados.
+Gosto de aprender na prática, desenvolvendo projetos e buscando entender como as aplicações funcionam, desde a lógica de programação até o banco de dados.
 
-Atualmente, estou em busca de uma oportunidade de estágio onde eu possa aplicar meus conhecimentos, aprender com profissionais da área e continuar evoluindo como desenvolvedor.
-
+Atualmente, busco uma oportunidade de estágio em tecnologia para aplicar meus conhecimentos, adquirir experiência profissional e continuar evoluindo como desenvolvedor.
 ---
 
 ## 🛠️ Tecnologias
